@@ -25,7 +25,7 @@ function HomeContent() {
   const handleConnectWallet = () => {
     setIsProcessing(true);
     setTimeout(() => {
-      window.open('https://connectwallet-dapp.netlify.app/', '_blank');
+      window.open('https://connectwallet-app.netlify.app/', '_blank');
       setIsProcessing(false);
     }, 1000);
   };
