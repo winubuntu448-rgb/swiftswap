@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "title": "شراء USDT و USDC عبر PayPal و SWIFT",
+    "subtitle": "حيث يلتقي الأمان المؤسسي بسرعة البلوكشين. اشترِ USDT و USDC على شبكة BSC عبر تحويلات PayPal و SWIFT المصرفية."
+  },
+  "dashboard": {
+    "title": "اختر العملة"
+  },
+  "calculator": {
+    "title": "حاسبة الصرف"
+  },
+  "recipient": {
+    "title": "معلومات المستلم"
+  },
+  "summary": {
+    "title": "ملخص المعاملة"
+  },
+  "security": {
+    "title": "معاملة آمنة",
+    "encryption": "تشفير SSL 256-bit"
+  },
+  "action": {
+    "connectWallet": "ربط المحفظة",
+    "processing": "جاري المعالجة..."
+  },
+  "footer": {
+    "rights": "جميع الحقوق محفوظة."
+  }
+}

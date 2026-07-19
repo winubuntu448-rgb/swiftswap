@@ -1,0 +1,16 @@
+# Netlify configuration for Next.js with next-intl
+
+[build]
+  command = "npm run build"
+  publish = ".next/standalone"
+  functions = ".next/server"
+
+# Handle Next.js routing
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/index"
+  status = 200
+
+# Prevent Netlify from trying to cache .next files
+[build.environment]
+  NEXT_PRIVATE_TARGET_EXEC_ENV = "secondary"

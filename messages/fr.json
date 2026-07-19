@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "title": "Acheter USDT & USDC avec PayPal & SWIFT",
+    "subtitle": "Où la sécurité institutionnelle rencontre la vitesse de la blockchain. Achetez USDT et USDC sur le réseau BSC avec des transferts PayPal et SWIFT."
+  },
+  "dashboard": {
+    "title": "Sélectionner la devise"
+  },
+  "calculator": {
+    "title": "Calculateur de change"
+  },
+  "recipient": {
+    "title": "Informations du destinataire"
+  },
+  "summary": {
+    "title": "Résumé de la transaction"
+  },
+  "security": {
+    "title": "Transaction sécurisée",
+    "encryption": "Chiffrement SSL 256-bit"
+  },
+  "action": {
+    "connectWallet": "Connecter le portefeuille",
+    "processing": "Traitement en cours..."
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+}
