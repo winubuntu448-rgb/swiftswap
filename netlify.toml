@@ -8,3 +8,9 @@
   from = "/*"
   to = "/.netlify/functions/index"
   status = 200
+
+[[redirects]]
+  # Redirect root to default locale page (avoid 404 at /)
+  from = "/"
+  to = "/en"
+  status = 200
